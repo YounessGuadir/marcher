@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/marcher/static/css/main.ff02f4b5.css",
+    "main.js": "/marcher/static/js/main.31211ce8.js",
+    "static/js/453.d6d89094.chunk.js": "/marcher/static/js/453.d6d89094.chunk.js",
+    "index.html": "/marcher/index.html",
+    "main.ff02f4b5.css.map": "/marcher/static/css/main.ff02f4b5.css.map",
+    "main.31211ce8.js.map": "/marcher/static/js/main.31211ce8.js.map",
+    "453.d6d89094.chunk.js.map": "/marcher/static/js/453.d6d89094.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.31211ce8.js"
+  ]
+}
