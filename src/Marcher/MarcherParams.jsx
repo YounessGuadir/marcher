@@ -35,7 +35,6 @@ export default function MarcherParams() {
               >
                 Add to Card
               </button>
-
               <Link to={"/Marcher/PC"}>
                 <button className="m-3 btn btn-dark">Go to card </button>
               </Link>

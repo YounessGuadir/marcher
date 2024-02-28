@@ -18,19 +18,13 @@ const NavMarcher = () => {
                     animate={{
                         scale:1,
                         color:'black',
-                        textShadow: '4px 4px 4px #DC143C'
-          
-                        
-                        
+                        textShadow: '4px 4px 4px #DC143C' 
                       }}
                       transition={{
                         duration:1,
                         delay:2
                         
                       }}
-                      
-                
-                
                 >
                    <img src="https://thumbs.dreamstime.com/b/online-shopping-e-commerce-logo-vector-design-illustration-ecommerce-online-store-logo-online-shopping-e-commerce-logo-178571891.jpg" alt="" width={'100px'} height={'50x'} /></motion.a>
                    {/*  LA COLLECTION */}
@@ -82,10 +76,7 @@ const NavMarcher = () => {
                                 animate={{
                                     scale:1,
                                     color:'#FFA500',
-                                  
-                      
-                                    
-                                    
+ 
                                   }}
                                   transition={{
                                     duration:1,
@@ -142,9 +133,7 @@ const NavMarcher = () => {
                 </div>
                 </div>
             </nav>
-            
-
-
+    
         </div>
     );
 }

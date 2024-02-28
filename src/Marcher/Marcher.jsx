@@ -30,7 +30,6 @@ export default function Marcher() {
       </button>
     ));
   };
-
   const displayProduit = () => {
     let produitItem = Marcher;
     if (currentCategory !== undefined) {
